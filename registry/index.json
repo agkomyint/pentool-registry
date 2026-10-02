@@ -1,4 +1,12 @@
 {
-  "packages": {},
+  "packages": {
+    "pentool/starter-illustrations": {
+      "0.1.0": {
+        "hash": "sha256:a1d53c8b2e161ce38dea537f5dc5c1f245a53df6244231a05267f33f0c695a0d",
+        "path": "packages/pentool/starter-illustrations/0.1.0.penpkg",
+        "yanked": false
+      }
+    }
+  },
   "schema": 1
 }

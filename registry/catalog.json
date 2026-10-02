@@ -1,5 +1,20 @@
 {
   "generated": null,
-  "packages": [],
+  "packages": [
+    {
+      "assets": 1,
+      "authors": [
+        "Pentool contributors"
+      ],
+      "description": "Friendly starter illustrations made with editable Pentool layers.",
+      "hash": "sha256:a1d53c8b2e161ce38dea537f5dc5c1f245a53df6244231a05267f33f0c695a0d",
+      "license": "MIT",
+      "name": "pentool/starter-illustrations",
+      "path": "packages/pentool/starter-illustrations/0.1.0.penpkg",
+      "pentool": ">=0.6.0",
+      "repository": "https://github.com/agkomyint/pentool-registry",
+      "version": "0.1.0"
+    }
+  ],
   "schema": 1
 }
