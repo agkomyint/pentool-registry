@@ -1,0 +1,7 @@
+{
+  "schema": 1,
+  "namespace": "pentool",
+  "owners": ["agkomyint"],
+  "description": "Official examples and starter libraries maintained by Pentool contributors.",
+  "required_license": "MIT OR Apache-2.0"
+}
